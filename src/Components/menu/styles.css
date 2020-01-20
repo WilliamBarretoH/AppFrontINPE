@@ -1,0 +1,18 @@
+.lista{
+    padding: 0px 10px;
+    margin: auto;
+    background:white;
+    
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo-inpe{
+    border-radius: 8px;
+    width: 130px;
+}
+
+.imagem{
+    padding: 14px 0px;
+}
+

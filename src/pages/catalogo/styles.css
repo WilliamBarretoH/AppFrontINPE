@@ -1,0 +1,24 @@
+ .colum{
+     padding: 0px 0px;
+     color: blue;
+     flex-direction: row;
+ 
+}
+
+.menu{
+    float: left;
+    padding: 200px 0px;
+    height: 20px;
+    background: white;
+}
+
+ .tabela{
+    width: 1300px;
+    margin-left: 0px;
+    padding: 200px 330px;
+    
+    
+}
+
+
+
